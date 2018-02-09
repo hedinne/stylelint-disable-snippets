@@ -9,6 +9,11 @@
     "body": ["// eslint-disable-line ${0:rule}"],
     "description": "ESLint disable line"
   },
+  "hedinn": {
+    "prefix": "hedinn",
+    "body": ["// eslint-disable-line ${0:rule}"],
+    "description": "hedinn descrip"
+  },
   "eslint-disable-next-line": {
     "prefix": "eslint-disable-next-line",
     "body": ["// eslint-disable-next-line ${0:rule}"],

@@ -1,0 +1,15 @@
+.hestur * {
+    font-size: 12px;
+
+    margin: 0px;
+}
+
+h2 {
+    &::before {
+        border: 1px solid salmon; content: 'WHY!!!!';
+    }
+}
+
+#fish {
+    speak: none;
+}

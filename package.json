@@ -13,7 +13,7 @@
       {
         "language": "scss",
         "path": "./snippets/snippets.json"
-      }
+      },
       {
         "language": "css",
         "path": "./snippets/snippets.json"
