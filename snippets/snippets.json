@@ -1,22 +1,23 @@
 {
-  "stylelint-disable-line": {
-    "prefix": "eslint-disable-line",
-    "body": ["/* stylelint-disable-line */"],
-    "description": "Stylelint disable line"
+  "stylelint disable line": {
+    "prefix": "stylelint-disable-line",
+    "body": ["/* stylelint-disable-line ${0:rule} */"],
+    "description":
+      "Disable Stylelint on this line. If no rule is specified, then all rules will be disabled."
   },
-  "eslint-disable-line": {
-    "prefix": "eslint-disable-line",
-    "body": ["// eslint-disable-line ${0:rule}"],
-    "description": "ESLint disable line"
+  "stylelint-disable-next-line": {
+    "prefix": "stylelint-disable-next-line",
+    "body": ["/* stylelint-disable-next-line ${0:rule} */"],
+    "description":
+      "Disable Stylelint on the next line. If no rule is specified, then all rules will be disabled."
   },
-  "hedinn": {
-    "prefix": "hedinn",
-    "body": ["// eslint-disable-line ${0:rule}"],
-    "description": "hedinn descrip"
-  },
-  "eslint-disable-next-line": {
-    "prefix": "eslint-disable-next-line",
-    "body": ["// eslint-disable-next-line ${0:rule}"],
-    "description": "ESLint disable next line"
+  "stylelint-disable-block": {
+    "prefix": "stylelint-disable-block",
+    "body": [
+      "/* stylelint-disable ${1:rule} */",
+      "$0/* stylelint-enable ${1:rule} */"
+    ],
+    "description":
+      "Disable Stylelint in a block of code. If no rule is specified, then all rules will be disabled."
   }
 }
