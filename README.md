@@ -1,4 +1,4 @@
-# Stylelint Disable Snippets README
+# Stylelint Disable Snippets
 
 This is a tiny extension includes the disable rules for Stylelint. Created because I kept having to google them.
 
@@ -9,3 +9,7 @@ This is a tiny extension includes the disable rules for Stylelint. Created becau
 * Press `tab` to drop your cursor at a helpful position.
 * Press `option+↓` to move the current line down. This is useful if you are wrapping a block of
   code.
+
+## If you have any questions or comments.
+
+Please contact me. https://github.com/hedinne/stylelint-disable-snippets/issues

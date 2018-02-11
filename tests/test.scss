@@ -3,6 +3,11 @@
 
     margin: 0;
 }
+.hestur * {
+    font-size: 12px;
+
+    margin: 0;
+}
 
 h2 {
     &::before {
@@ -12,5 +17,6 @@ h2 {
 }
 
 #fish {
+    speak: none;
     speak: none;
 }

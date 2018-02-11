@@ -11,6 +11,14 @@
     "type": "git",
     "url": "https://github.com/hedinne/stylelint-disable-snippets.git"
   },
+  "icon": "images/logo.png",
+  "galleryBanner": {
+    "color": "#1f1f1f",
+    "theme": "dark"
+  },
+  "bugs": {
+    "url": "https://github.com/hedinne/stylelint-disable-snippets/issues"
+  },
   "categories": ["Snippets"],
   "contributes": {
     "snippets": [
