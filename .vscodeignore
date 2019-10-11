@@ -1,6 +1,5 @@
 .vscode/**
-.vscode-test/**
+test/**
 .gitignore
 vsc-extension-quickstart.md
-tests
 assets

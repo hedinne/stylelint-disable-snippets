@@ -10,6 +10,10 @@ This is a tiny extension includes the disable rules for Stylelint. Created becau
 * Press `option+↓` to move the current line down. This is useful if you are wrapping a block of
   code.
 
+## Example
+![The extension beeing used](/images/demo.gif)
+
+
 ## If you have any questions or comments.
 
 Please contact me. https://github.com/hedinne/stylelint-disable-snippets/issues
