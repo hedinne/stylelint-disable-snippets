@@ -2,7 +2,7 @@
   "name": "stylelint-disable-snippets",
   "displayName": "Stylelint Disable Snippets",
   "description": "Few snippets to disable Stylelint rules.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "hedinne",
   "engines": {
     "vscode": "^1.20.0"
@@ -19,7 +19,9 @@
   "bugs": {
     "url": "https://github.com/hedinne/stylelint-disable-snippets/issues"
   },
-  "categories": ["Snippets"],
+  "categories": [
+    "Snippets"
+  ],
   "contributes": {
     "snippets": [
       {
