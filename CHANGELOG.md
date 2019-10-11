@@ -10,3 +10,7 @@ All notable changes to the "stylelint-disable-snippets" extension will be docume
 
 * New Logo.
 * Readme.
+
+## [1.0.2] - 2019-10-11
+
+* Add an en example.

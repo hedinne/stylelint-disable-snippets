@@ -2,7 +2,7 @@
   "name": "stylelint-disable-snippets",
   "displayName": "Stylelint Disable Snippets",
   "description": "Few snippets to disable Stylelint rules.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "hedinne",
   "engines": {
     "vscode": "^1.20.0"
