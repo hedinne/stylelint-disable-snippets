@@ -9,8 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "stylelint": "^8.4.0",
-    "stylelint-config-primer": "^2.2.4",
-    "stylelint-order": "^0.8.0"
+    "stylelint": "^15.5.0",
+    "stylelint-config-primer": "^11.1.1",
+    "stylelint-order": "^6.0.3"
   }
 }
